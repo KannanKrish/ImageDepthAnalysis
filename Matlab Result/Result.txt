@@ -1,0 +1,9 @@
+test_upsampling
+---- 
+
+-- TGV2 - L2 
+mse_bicubic  = 4.1572
+mse_bilinear = 3.5958
+mse_nearest  = 5.0147
+-- OURS: 
+mse         =  2.1846
